@@ -12,7 +12,6 @@ uv sync
 python main.py
 ```
 
-**API Docs:** http://localhost:8000/docs
 
 ---
 
